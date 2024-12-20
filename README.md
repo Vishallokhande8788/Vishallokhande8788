@@ -1,9 +1,3 @@
-<div style="position: relative; width: 100%; height: 400px; overflow: hidden;">
-  <!-- Background Image -->
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/025/463/773/small_2x/hacker-logo-design-a-mysterious-and-dangerous-hacker-illustration-vector.jpg" 
-       alt="Background Image" 
-       style="width: auto; height: auto; max-width: 100%; max-height: 100%; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;">
-</div>
 
 <h1 align="center">Hi 👋, I'm Vishal lokhande</h1>
 <h3 align="center">A Passionate Web Devloper</h3>
@@ -46,24 +40,22 @@
 
 <h2 align="center">🤝 Connect with Me 🤝</h2>
 <p align="center" style="transform: scale(1.25); display: inline-block;">
-  <a href="https://facebook.com/[your-facebook-username]" target="blank">
+  <a href="https://facebook.com/vishallokhande" target="blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://wa.me/[your-whatsapp-number]" target="blank">
+  <a href="https://wa.me/9370740100" target="blank">
     <img src="https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://instagram.com/[your-instagram-username]" target="blank">
+  <a href="https://instagram.com/vishal_lokhande_111" target="blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/[your-linkedin-username]" target="blank">
+  <a href="https://linkedin.com/in/VishalLokhande" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[your-email@example.com]" target="blank">
+  <a href="mailto:vishallokhande8788@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/[your-telegram-username]" target="blank">
-    <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+ 
 </p>
 
 
