@@ -1,5 +1,6 @@
-
-<h1 align="center">Hi 👋, I'm Vishal lokhande</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋+I'am+Vishal+Lokhande+!;" />
+</h1>
 <h3 align="center">A Passionate Web Devloper</h3>
 
 - 🔭 I’m currently working on **Front-End**
@@ -16,7 +17,9 @@
 
 ---
 
-<h2 align="center">🌟 Tech Stack 🌟</h2>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vishallokhande8788&label=Profile%20views&color=0e75b6&style=flat" alt="vishallokhande8788"  height="40px" width="200"/> </p>
+<h2 align="center">🌟 Technologies I work with  🌟</h2>
 <p align="center" style="transform: scale(1.25); display: inline-block;">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -34,6 +37,11 @@
   <img src="https://img.shields.io/badge/Babel-%23F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" />
   <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+
 </p>
 
 ---
@@ -66,15 +74,22 @@
   <h2 align="center" style="font-size: 2.5rem; color: #4CAF50; font-weight: bold; text-transform: uppercase; letter-spacing: 2px;">
     🏆 GitHub Trophies 🏆
   </h2>
-  <p align="center" style="margin-top: 20px;">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&no-frame=true&no-bg=true&margin-w=5" 
-      alt="Your GitHub Trophies" 
-      style="max-width: 80%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"
-    />
-  </p>
+
+
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vishallokhande8788" alt="Vishallokhande8788" /></a> </p>
 </section>
 
+
+---
+
+### 📈 GitHub Stats:
+Here’s a quick overview of my GitHub activity, including my top repositories, contributions, and more:
+
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishallokhande8788&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
+
+---
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishallokhande8788&show_icons=true&locale=en&layout=compact" alt="vishallokhande8788" />
 
 ---
 
