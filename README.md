@@ -40,16 +40,16 @@
 
 <h2 align="center">🤝 Connect with Me 🤝</h2>
 <p align="center" style="transform: scale(1.25); display: inline-block;">
-  <a href="https://facebook.com/vishallokhande" target="blank">
+  <a href="https://www.facebook.com/vishal.lokhande.9809" target="blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://wa.me/9370740100" target="blank">
     <img src="https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://instagram.com/vishal_lokhande_111" target="blank">
+  <a href="https://www.instagram.com/vishal_lokhande_111/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/VishalLokhande" target="blank">
+  <a href="https://www.linkedin.com/in/vishal-lokhande-96370333a/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vishallokhande8788@gmail.com" target="blank">
