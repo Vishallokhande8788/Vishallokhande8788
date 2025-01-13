@@ -83,6 +83,37 @@
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Flask-%23EEEEEE.svg?style=for-the-badge&logo=flask&logoColor=black" />
   </a>
+<a href="https://mui.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
+</a>
+<a href="https://zod.dev/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Zod-%23F7DF1E.svg?style=for-the-badge&logo=zod&logoColor=black" />
+</a>
+<a href="https://reactrouter.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/React%20Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" />
+</a>
+<a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+</a>
+<a href="https://redux.js.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</a>
+<a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+</a>
+<a href="https://shadcn.dev/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/ShadCN%20UI-%23A855F7.svg?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+<a href="https://asserative-ui.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Assertive%20UI-%234CAF50.svg?style=for-the-badge&logo=google&logoColor=white" />
+</a>
+
 </p>
 
 ---
