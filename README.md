@@ -101,6 +101,10 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </a>
+    <a href="https://hono.dev/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Hono-%23000000.svg?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</a>
+
 <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </a>
