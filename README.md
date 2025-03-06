@@ -120,12 +120,14 @@
     <img src="https://img.shields.io/badge/Tailwind Plus-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </a>
 
-<a href="https://shadcn.dev/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/ShadCN%20UI-%23A855F7.svg?style=for-the-badge&logo=react&logoColor=white" />
+<a href="https://ui.aceternity.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Aceternity UI-%238B5CF6.svg?style=for-the-badge&logo=react&logoColor=white" />
 </a>
-<a href="https://asserative-ui.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Assertive%20UI-%234CAF50.svg?style=for-the-badge&logo=google&logoColor=white" />
+
+<a href="https://ui.shadcn.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge&logo=radixui&logoColor=white" />
 </a>
+
 
 </p>
 
