@@ -112,13 +112,14 @@
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </a>
 
-<a href="https://www.heroui.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Hero UI-%236D28D9.svg?style=for-the-badge&logo=heroku&logoColor=white" />
+<a href="https://www.heroui.com/docs/guide/introduction" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Hero UI Docs-%236D28D9.svg?style=for-the-badge&logo=heroku&logoColor=white" />
 </a>
 
-<a href="https://tailwind.plus/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Tailwind Plus-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<a href="https://tailwindcss.com/plus" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Tailwind CSS Plus-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </a>
+
 
 <a href="https://ui.aceternity.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Aceternity UI-%238B5CF6.svg?style=for-the-badge&logo=react&logoColor=white" />
