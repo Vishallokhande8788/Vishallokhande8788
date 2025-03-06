@@ -128,6 +128,18 @@
 <a href="https://ui.shadcn.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge&logo=radixui&logoColor=white" />
 </a>
+<a href="https://www.neobrutalism.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/NeoBrutalism-%23FF5733.svg?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+
+<a href="https://21st.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/21st UI-%230000FF.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+</a>
+
+<a href="https://v0.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/V0.dev-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 
 
 </p>
