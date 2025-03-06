@@ -111,6 +111,15 @@
 <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </a>
+
+<a href="https://www.heroui.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Hero UI-%236D28D9.svg?style=for-the-badge&logo=heroku&logoColor=white" />
+</a>
+
+<a href="https://tailwind.plus/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Tailwind Plus-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</a>
+
 <a href="https://shadcn.dev/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/ShadCN%20UI-%23A855F7.svg?style=for-the-badge&logo=react&logoColor=white" />
 </a>
