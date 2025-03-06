@@ -113,11 +113,11 @@
 </a>
 
 <a href="https://www.heroui.com/docs/guide/introduction" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Hero UI Docs-%236D28D9.svg?style=for-the-badge&logo=heroku&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hero UI-%236D28D9.svg?style=for-the-badge&logo=heroku&logoColor=white" />
 </a>
 
 <a href="https://tailwindcss.com/plus" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Tailwind CSS Plus-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </a>
 
 
@@ -126,7 +126,7 @@
 </a>
 
 <a href="https://ui.shadcn.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge&logo=radixui&logoColor=white" />
+    <img src="https://img.shields.io/badge/shadcn-%23000000.svg?style=for-the-badge&logo=radixui&logoColor=white" />
 </a>
 <a href="https://www.neobrutalism.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/NeoBrutalism-%23FF5733.svg?style=for-the-badge&logo=react&logoColor=white" />
