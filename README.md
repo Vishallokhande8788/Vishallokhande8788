@@ -117,7 +117,7 @@
 </a>
 
 <a href="https://tailwindcss.com/plus" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Tailwind CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind Plus-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </a>
 
 
