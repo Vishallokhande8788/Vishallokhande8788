@@ -120,6 +120,13 @@
     <img src="https://img.shields.io/badge/Tailwind Plus-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </a>
 
+<a href="https://21st.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/21st UI-%230000FF.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+</a>
+
+<a href="https://v0.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/V0.dev-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 <a href="https://ui.aceternity.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Aceternity UI-%238B5CF6.svg?style=for-the-badge&logo=react&logoColor=white" />
@@ -132,13 +139,7 @@
     <img src="https://img.shields.io/badge/NeoBrutalism-%23FF5733.svg?style=for-the-badge&logo=react&logoColor=white" />
 </a>
 
-<a href="https://21st.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/21st UI-%230000FF.svg?style=for-the-badge&logo=next.js&logoColor=white" />
-</a>
 
-<a href="https://v0.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/V0.dev-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
 
 
 
