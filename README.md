@@ -138,6 +138,9 @@
 <a href="https://www.neobrutalism.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/NeoBrutalism-%23FF5733.svg?style=for-the-badge&logo=react&logoColor=white" />
 </a>
+<a href="https://daisyui.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/daisyUI-%23FFD700.svg?style=for-the-badge&logo=tailwindcss&logoColor=%23000000" />
+</a>
 
 
 
