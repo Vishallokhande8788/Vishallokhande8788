@@ -60,16 +60,13 @@
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishallokhande8788&show_icons=true&theme=radical&hide_border=true)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishallokhande8788&layout=compact&theme=radical&hide_border=true)
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishallokhande8788&theme=radical&hide_border=true)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishallokhande8788&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishallokhande8788&layout=compact&theme=radical&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishallokhande8788&theme=radical&hide_border=true) |
+|:---:|:---:|:---:|
 
 </div>
+
 
 ---
 
