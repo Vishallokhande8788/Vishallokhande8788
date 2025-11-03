@@ -11,7 +11,7 @@
   
 💼 **Portfolio:** [my-portfolio-gules-eight-82.vercel.app](https://my-portfolio-gules-eight-82.vercel.app) •  
 📧 **Email:** vishallokhande8788@gmail.com •  
-📱 **Phone:** +91 9370740100
+📱 **Phone No:** +91 9370740100
 
 </div>
 
